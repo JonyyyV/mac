@@ -1,5 +1,6 @@
 # Laboratorio 1 de MAC
 
+
 import math
 import numpy
 
