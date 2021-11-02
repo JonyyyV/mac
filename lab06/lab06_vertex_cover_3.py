@@ -202,3 +202,8 @@ start_time = time()
 test()
 elapsed_time = time() - start_time
 print("Elapsed time: %0.10f seconds." % elapsed_time)
+
+
+
+#Como podemos observar el lab_vertex_cover_2 tarda alrededor de 12 segundos,
+# mientras que el lab_vertex_cover_3 ronda los 0,01 segundos.
